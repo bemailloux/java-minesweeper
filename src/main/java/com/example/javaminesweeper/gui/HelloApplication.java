@@ -1,4 +1,4 @@
-package com.example.javaminesweeper;
+package com.example.javaminesweeper.gui;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

@@ -1,4 +1,4 @@
-package com.example.javaminesweeper;
+package com.example.javaminesweeper.gui;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
